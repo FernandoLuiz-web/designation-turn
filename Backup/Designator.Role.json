@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "66d5f448407a65b9ca7cf61a"
+  },
+  "Name": "Microfone volante",
+  "Observations": ""
+},
+{
+  "_id": {
+    "$oid": "66d5f474407a65b9ca7cf61b"
+  },
+  "Name": "Indicador externo",
+  "Observations": "Deve abrir e/ou fechar o salão"
+},
+{
+  "_id": {
+    "$oid": "66d5f49a407a65b9ca7cf61e"
+  },
+  "Name": "Indicador auditório",
+  "Observations": "Deve abrir e/ou fechar o salão"
+},
+{
+  "_id": {
+    "$oid": "66d5f4e1407a65b9ca7cf620"
+  },
+  "Name": "Suporte zoom",
+  "Observations": "Deve iniciar a reunião pelo zoom e admitir os irmãos que abrirem"
+},
+{
+  "_id": {
+    "$oid": "66d5f50b407a65b9ca7cf621"
+  },
+  "Name": "Suporte áudio",
+  "Observations": ""
+},
+{
+  "_id": {
+    "$oid": "66d5f533407a65b9ca7cf622"
+  },
+  "Name": "Suporte vídeo",
+  "Observations": ""
+}]

@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "66d60243407a65b9ca7cf63a"
+  },
+  "Name": "Luiz Oliveira",
+  "Roles_id": [
+    {
+      "$oid": "66d5f474407a65b9ca7cf61b"
+    },
+    {
+      "$oid": "66d5f49a407a65b9ca7cf61e"
+    },
+    {
+      "$oid": "66d5f533407a65b9ca7cf622"
+    }
+  ],
+  "Last_Designation": {
+    "Designation_Date": {
+      "$date": "2024-09-25T19:30:00.000Z"
+    },
+    "Designation_id": {
+      "$oid": "66d60764407a65b9ca7cf648"
+    },
+    "Is_Replaced": false,
+    "Role_Id": {
+      "$oid": "66d5f50b407a65b9ca7cf621"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66e0d43d407a65b9ca7cf687"
+  },
+  "Name": "Gustavo Oliveira",
+  "Roles_id": [
+    {
+      "$oid": "66d5f474407a65b9ca7cf61b"
+    },
+    {
+      "$oid": "66d5f49a407a65b9ca7cf61e"
+    },
+    {
+      "$oid": "66d5f533407a65b9ca7cf622"
+    }
+  ],
+  "Last_Designation": {
+    "Designation_Date": {
+      "$date": null
+    },
+    "Designation_id": {
+      "$oid": null
+    },
+    "Is_Replaced": null,
+    "Role_Id": {
+      "$oid": null
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66e0d47d407a65b9ca7cf688"
+  },
+  "Name": "Lucas Haskel",
+  "Roles_id": [
+    {
+      "$oid": "66d5f474407a65b9ca7cf61b"
+    },
+    {
+      "$oid": "66d5f49a407a65b9ca7cf61e"
+    },
+    {
+      "$oid": "66d5f533407a65b9ca7cf622"
+    }
+  ],
+  "Last_Designation": null
+}]
