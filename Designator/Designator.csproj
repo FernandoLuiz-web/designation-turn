@@ -14,10 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Application\" />
-    <Folder Include="Domain\Services\" />
-    <Folder Include="Plugins\" />
-    <Folder Include="Presentation\" />
+    <ProjectReference Include="..\Designator.Infraestructure\Designator.Infraestructure.csproj" />
   </ItemGroup>
 
 </Project>
